@@ -1,8 +1,11 @@
 # Detección de Fraude en E-commerce con Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
-![Libraries](https://img.shields.io/badge/Librerías-Scikit--learn%2C%20Pandas%2C%20XGBoost-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Proyecto_Completado-%E2%9C%94-2ECC71?style=flat-square&logo=checkmarx&logoColor=white" alt="Proyecto Completado"/>
+  <img src="https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/scikit--learn-Modelo_ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+</p>
 
 
 Este repositorio contiene el desarrollo de un proyecto cuyo objetivo es construir un modelo de machine learning para detectar transacciones fraudulentas en una plataforma de e-commerce. A través de un análisis exploratorio detallado, una limpieza de datos  y la implementación de modelos avanzados como **Random Forest** y **XGBoost**, se logró desarrollar un clasificador con un **rendimiento perfecto (F1-Score de 1.0)**, validado rigurosamente mediante técnicas de validación cruzada para asegurar su fiabilidad y consistencia.
