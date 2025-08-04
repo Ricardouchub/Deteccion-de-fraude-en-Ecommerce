@@ -83,12 +83,14 @@ Este resultado excepcional confirma que el modelo aprendió a la perfección los
 ---
 
 ## Estructura del Repositorio
-
-
+- **`Notebook.ipynb`**: Notebook principal del proyecto realizado.
+- **`/modelos/`**: Carpeta que contiene los modelos entrenados.
+- **`/data/`**: Carpeta que contiene el data set usado.
 ---
 
 
 ## Autor
 
-* **[Ricardo Urdaneta]**
-* **LinkedIn:**
+**Ricardo Urdaneta** 
+
+[**LinkedIn**](https://www.linkedin.com/in/ricardourdanetacastro)
