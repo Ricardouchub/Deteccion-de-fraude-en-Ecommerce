@@ -76,13 +76,13 @@ Este resultado excepcional confirma que el modelo aprendió a la perfección los
 
 ## Tecnologías Utilizadas
 * **Lenguaje:** Python
-* **Librerías Principales:**
-    * Pandas & NumPy para manipulación de datos.
-    * Scikit-learn para preprocesamiento, modelado y evaluación.
-    * Imbalanced-learn para técnicas de manejo de desbalance.
-    * XGBoost para el modelo de gradient boosting.
-    * Matplotlib & Seaborn para visualización de datos.
-    * Joblib para el guardado de modelos.
+* **Librerías:**
+    * Pandas & NumPy
+    * Scikit-learn
+    * Imbalanced-learn
+    * XGBoost
+    * Matplotlib & Seaborn 
+    * Joblib
 
 ---
 
