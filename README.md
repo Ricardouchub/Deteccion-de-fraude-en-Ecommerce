@@ -8,7 +8,7 @@
 </p>
 
 
-Este repositorio contiene el desarrollo de un proyecto cuyo objetivo es construir un modelo de machine learning para detectar transacciones fraudulentas en una plataforma de e-commerce. A través de un análisis exploratorio detallado, una limpieza de datos  y la implementación de modelos avanzados como **Random Forest** y **XGBoost**, se logró desarrollar un clasificador con un **rendimiento perfecto (F1-Score de 1.0)**, validado rigurosamente mediante técnicas de validación cruzada para asegurar su fiabilidad y consistencia.
+Este repositorio contiene el desarrollo de un proyecto cuyo objetivo es construir un modelo de machine learning para detectar transacciones fraudulentas en una plataforma de e-commerce. A través de un análisis exploratorio detallado, una limpieza de datos  y la implementación de modelos avanzados como **Random Forest** y **XGBoost**, se logró desarrollar un clasificador con un **rendimiento perfecto (F1-Score de 1.0)**, validado mediante técnicas de validación cruzada para asegurar su fiabilidad.
 
 ### [Notebook](https://github.com/Ricardouchub/Deteccion-de-fraude-en-Ecommerce/blob/main/Notebook.ipynb)
 ---
@@ -76,13 +76,13 @@ Este resultado excepcional confirma que el modelo aprendió a la perfección los
 
 ## Tecnologías Utilizadas
 * **Lenguaje:** Python
-* **Librerías Principales:**
-    * Pandas & NumPy para manipulación de datos.
-    * Scikit-learn para preprocesamiento, modelado y evaluación.
-    * Imbalanced-learn para técnicas de manejo de desbalance.
-    * XGBoost para el modelo de gradient boosting.
-    * Matplotlib & Seaborn para visualización de datos.
-    * Joblib para el guardado de modelos.
+* **Librerías:**
+    * Pandas & NumPy
+    * Scikit-learn
+    * Imbalanced-learn
+    * XGBoost
+    * Matplotlib & Seaborn 
+    * Joblib
 
 ---
 
