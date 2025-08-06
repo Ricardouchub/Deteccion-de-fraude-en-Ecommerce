@@ -18,7 +18,7 @@ Este repositorio contiene el desarrollo de un proyecto cuyo objetivo es construi
 * [Dataset](#dataset)
 * [Metodología](#metodología-del-proyecto)
 * [Resultados Clave](#resultados-clave)
-* [Tecnologías Utilizadas](#tecnologías-utilizadas)
+* [Herramientas](#herramientas)
 * [Estructura del Repositorio](#estructura-del-repositorio)
 * [Autor](#autor)
 
@@ -74,7 +74,7 @@ Este resultado excepcional confirma que el modelo aprendió a la perfección los
 
 ---
 
-## Tecnologías Utilizadas
+## Herramientas
 * **Lenguaje:** Python
 * **Librerías:**
     * Pandas & NumPy
