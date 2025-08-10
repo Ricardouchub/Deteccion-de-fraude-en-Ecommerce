@@ -13,7 +13,7 @@ Este repositorio contiene el desarrollo de un proyecto cuyo objetivo es construi
 ### [Notebook](https://github.com/Ricardouchub/Deteccion-de-fraude-en-Ecommerce/blob/main/Notebook.ipynb)
 ---
 
-## Tabla de Contenidos
+## Índice
 * [Problema de Negocio](#problema-de-negocio)
 * [Dataset](#dataset)
 * [Metodología](#metodología-del-proyecto)
