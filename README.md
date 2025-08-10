@@ -58,7 +58,7 @@ El proyecto se desarrolló siguiendo un ciclo de vida estructurado:
 
 ---
 
-## Resultados Clave
+## Resultados
 
 El modelo **XGBoost** se consolidó como la solución más eficaz, alcanzando un rendimiento perfecto y consistente.
 
