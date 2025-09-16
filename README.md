@@ -8,7 +8,7 @@
 </p>
 
 
-Desarrollo de un proyecto cuyo objetivo es construir un modelo de machine learning para detectar transacciones fraudulentas en una plataforma de e-commerce. A través de un análisis exploratorio detallado, una limpieza de datos  y la implementación de modelos avanzados como **Random Forest** y **XGBoost**, se logró desarrollar un clasificador con un **rendimiento perfecto (F1-Score de 1.0)**, validado mediante técnicas de validación cruzada para asegurar su fiabilidad.
+Construcción de un modelo de machine learning para detectar transacciones fraudulentas en una plataforma de e-commerce a través de un análisis exploratorio, una limpieza de datos  y la implementación de modelos avanzados como **Random Forest** y **XGBoost**. Se logró desarrollar un clasificador con un **rendimiento perfecto (F1-Score de 1.0)**, validado mediante técnicas de validación cruzada para asegurar su fiabilidad.
 
 ### [Notebook](https://github.com/Ricardouchub/Deteccion-de-fraude-en-Ecommerce/blob/main/Notebook.ipynb)
 ---
