@@ -8,23 +8,23 @@
 </p>
 
 
-Este repositorio contiene el desarrollo de un proyecto cuyo objetivo es construir un modelo de machine learning para detectar transacciones fraudulentas en una plataforma de e-commerce. A través de un análisis exploratorio detallado, una limpieza de datos  y la implementación de modelos avanzados como **Random Forest** y **XGBoost**, se logró desarrollar un clasificador con un **rendimiento perfecto (F1-Score de 1.0)**, validado mediante técnicas de validación cruzada para asegurar su fiabilidad.
+Desarrollo de un proyecto cuyo objetivo es construir un modelo de machine learning para detectar transacciones fraudulentas en una plataforma de e-commerce. A través de un análisis exploratorio detallado, una limpieza de datos  y la implementación de modelos avanzados como **Random Forest** y **XGBoost**, se logró desarrollar un clasificador con un **rendimiento perfecto (F1-Score de 1.0)**, validado mediante técnicas de validación cruzada para asegurar su fiabilidad.
 
 ### [Notebook](https://github.com/Ricardouchub/Deteccion-de-fraude-en-Ecommerce/blob/main/Notebook.ipynb)
 ---
 
 ## Índice
-* [Problema de Negocio](#problema-de-negocio)
+* [Problema](#problema)
 * [Dataset](#dataset)
 * [Metodología](#metodología-del-proyecto)
-* [Resultados Clave](#resultados-clave)
+* [Resultados](#resultados)
 * [Herramientas](#herramientas)
 * [Estructura del Repositorio](#estructura-del-repositorio)
 * [Autor](#autor)
 
 ---
 
-## Problema de Negocio
+## Problema
 
 El fraude en transacciones online representa una de las mayores amenazas para las empresas de e-commerce, generando pérdidas millonarias, erosionando la confianza del cliente y aumentando los costos operativos por disputas y revisiones manuales. Este proyecto busca abordar este problema creando una solución automatizada que pueda:
 
